@@ -7,7 +7,7 @@
 Rather than replacing traditional flight instruction, SkyStudy is designed to complement it by providing students with an accessible and organized learning environment where they can review material, practice for written exams, and prepare for oral checkrides at their own pace.
 
 ---
-
+ <img src="screenshots/home-page.png" width="47%">
 ## Mission
 
 Our mission is to make aviation education more accessible, engaging, and effective by combining modern technology with proven learning methods. SkyStudy encourages active learning and critical thinking while helping students stay organized throughout their training.
@@ -26,6 +26,7 @@ Our mission is to make aviation education more accessible, engaging, and effecti
 - 📱 Responsive and user-friendly interface
 
 ---
+  <img src="screenshots/ai-tutor.png" width="47%">  <img src="screenshots/flashcards.png" width="47%">
 
 ## Target Audience
 
@@ -96,3 +97,29 @@ GitHub: https://github.com/MashalAlshahrani21
 This project is intended for educational purposes.
 
 © 2026 Mashal Alshahrani. All rights reserved.
+
+
+
+
+
+
+
+
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/home-page.png)
+
+### AI Tutor
+![AI Tutor](screenshots/ai-tutor.png)
+
+### Study Topics
+![Study Topics](screenshots/study-topics.png)
+
+### Flashcards
+![Flashcards](screenshots/flashcards.png)
+
+### Progress Dashboard
+![Progress](screenshots/progress.png)
+<p align="center">
+</p>
