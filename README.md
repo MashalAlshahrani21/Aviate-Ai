@@ -88,7 +88,6 @@ New features, improvements, and bug fixes are added regularly.
 
 Developed by **Mashal Alshahrani**
 
-GitHub: https://github.com/MashalAlshahrani21
 
 ---
 
